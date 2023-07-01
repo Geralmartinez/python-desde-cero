@@ -1,0 +1,8 @@
+print("hola ,dime cual es tu nombre")
+name = input()
+print (" hola" + name)
+print ("¿cuanto años tines?")
+age = input()
+print (type(age))
+file_result =open("./hello.txt ","w")
+print ("naciste en" ,  2023 -age,sep =":",file_result")

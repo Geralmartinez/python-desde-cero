@@ -1,0 +1,2 @@
+#python es un lenguaje formal,es decir,tiene reglas muy estrictas sobre la escritura de codigo.en canbio los lenguajes naturales,como el castellano,tiene reglas que dan interpretacion diferente para cada persona (ironia,sascarmo, poesia.etc).python no .es estricto y no tiene lugar para diferente 
+print(1+4)
